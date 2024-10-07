@@ -3,7 +3,7 @@ const dice = document.getElementById('dice');
 
 // Prizes corresponding to the dice faces
 const prizes = [
-    'Roll A Dise (10000 and Above)',
+   
     'Nail Extension',                         // Front
     'Vitamin C Clean-Up',                              // Back
     'Basic Pedicure',                             // Right
